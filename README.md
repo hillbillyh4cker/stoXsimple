@@ -3,7 +3,7 @@
 **stoXsimple** is a lightweight, privacy-focused, self-hosted web app for viewing multiple stock candlestick charts easily.  
 Built with simplicity and transparency in mind, it lets you track your favorite tickers without relying on third-party hosted services.
 
-![stoXsimple Screenshot](https://github.com/0wardriver0/stoXsimple/blob/main/image.png)
+![stoXsimple Screenshot](https://github.com/hillbillyh4cker/stoXsimple/blob/main/image.png)
 
 ## Features
 
